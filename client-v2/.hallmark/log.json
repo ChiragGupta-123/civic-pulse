@@ -1,0 +1,34 @@
+[
+ {
+  "scope": "app",
+  "shape": "app screen",
+  "theme": "Furrow (by request)",
+  "axes": {
+   "shell": "top bar",
+   "density": "compact ledger",
+   "lead": "register table",
+   "nav": "top bar",
+   "footer": "single rule",
+   "surface": "paper"
+  },
+  "hero": "none, app screen",
+  "nav": "wordmark, six destinations, reading language, account",
+  "footer": "rule, register line, interface meta",
+  "imagery": "OpenStreetMap markers and API evidence photographs",
+  "photos": [],
+  "entry": "2026-11-01",
+  "fingerprint": "app:topbar:ledger:ruled",
+  "sections": [
+   "overview",
+   "register",
+   "record",
+   "login",
+   "phase-two sheets"
+  ],
+  "signature": "the register table and its statutory clock",
+  "waived": [],
+  "prompt": "Continue Civic Pulse client-v2: application shell, grievance register, typed API layer, sloplint app scope",
+  "date": "2026-11-01",
+  "mode": "build"
+ }
+]
